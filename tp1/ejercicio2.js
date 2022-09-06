@@ -1,4 +1,3 @@
 function getNombre (nombre) {
-    alert("Hola" + nombre);
-    
+    alert("Hola" + nombre);   
 }
